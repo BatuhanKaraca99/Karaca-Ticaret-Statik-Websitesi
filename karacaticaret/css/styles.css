@@ -1,0 +1,127 @@
+/* CSS Document */
+
+body	{
+	background-color: #FDD;
+}
+#list	{
+		list-style-type:none;
+		display:inline;
+}
+#logo 	{
+	background-color: #FFF;
+	margin: 0px;
+	padding: 0px;
+	border: 2px #000 solid;
+	height: 107px;
+}
+
+
+#numara {
+	display: inline;
+	width: 185px;
+	float: right;
+}
+
+#nav	{
+	background-color: #550000;
+	border: 1px #000 solid;
+	padding: 6px;
+	margin: 0px;
+	width: 100%;
+}
+
+.buton{
+	text-align: center;
+	text-decoration: none;
+	width: 170px;
+	background-color: #550000;
+	color: #FFF;
+	font-size: 17px;
+	font-weight: 600;
+	padding-left: 4px;
+	padding-right: 4px;
+	border-bottom: 2px #FFF solid;
+	margin-right: 3px;
+}
+
+.buton:hover
+{
+	background-color:#F00;
+	color:#999;
+}
+
+#baslik {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-align: center;
+	color: #530000;
+	font-size: 50px;
+	font-weight: bold;
+	border: 1px #333 solid;
+	height: 120px;
+	background-image: url(../images/mdukkan.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 10px;
+	padding: 10px;
+	}
+#yerlestir {
+	background-color: #FFF;
+	border: 1px #FF0000 dotted;
+	left: 1119px;
+	top: 340px;
+	height: 1852px;
+}
+
+.dekorasyon{
+	text-decoration:none;
+}
+
+.bord	{
+		border:2px #000 solid;
+}
+#f1{
+	padding: 3px;
+	margin: 10px;
+	border: 2px #6C0000 solid;
+	background-color: #FFC4C4;
+}
+#f2{
+	padding: 1px;
+	margin: 30px;
+}
+.bord{
+	float:right;
+}
+
+Urunlerimiz
+#kutu	{
+	
+}
+.kutu	{
+	float:left;
+		margin:10px;
+		padding:10px;
+			width:280px;
+}
+.kutu:hover
+{
+	color:#999;
+}
+
+#a1{width: 700px;
+	height: 740px;
+	border:1px #000 dotted;
+	background-color:#FFF;
+	border-radius:20px;
+}
+	
+#a,#b,#c,#d,#e,#f,#g,#h,#i,#j,#k,#l,#m{
+	width: 280px;
+	height: 220px;
+	border:1px #000 dotted;
+	background-color:#FFF;
+	border-radius:20px;
+}
+#yazi	{
+	text-align:center;
+}
